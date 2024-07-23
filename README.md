@@ -52,19 +52,6 @@ To get started, you need to have Python installed. Follow these steps to set up 
 - The `LANG_OPTIONS` dictionary in `languages.py` contains the available languages and their codes. You can add or remove languages as needed.
 - The app uses Hugging Face's `Helsinki-NLP/opus-mt` models for translation. Ensure the selected language pair is supported by the model.
 
-## Development
-
-- Enhance the app by modifying `main.py` and `languages.py`.
-- Contribute by submitting pull requests or opening issues.
-
-## Troubleshooting
-
-- **ImportError**: Ensure all dependencies are installed correctly. Reinstall packages if needed.
-- **Model Not Found**: Verify the model name and availability on the Hugging Face model hub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -73,4 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/translator-app/issues).
+For questions or feedback, please open an issue on the [GitHub repository](https://github.com/m3r41ck/translator-app/issues).
